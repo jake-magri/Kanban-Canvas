@@ -202,9 +202,14 @@ tbody tr:nth-child(odd) {
   color: #000;
 }
 
-.form input, .form label, .form textarea, .form select, .form button {
+.form label, .form textarea, .form select, .form button {
   width: 50%; /* Makes all form elements take the full width of the form */
   margin-bottom: 15px;
+  color:#000;
+}
+
+.form input {
+  color: #f9f9f9;
 }
 
 .editBtn {
