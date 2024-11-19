@@ -21,7 +21,7 @@ This Kanban board app includes a secure login system using JSON Web Tokens (JWT)
 ## Usage
 
 ### Video Demo
-![Video demo of application.](assets/videos/undefined)
+https://github.com/user-attachments/assets/ae2cf88e-4e77-4130-b06f-10d2867c0760
 
 ### Usage Information
 Users can login to kanban board and adjust it's issue cards.
