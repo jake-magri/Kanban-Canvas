@@ -9,11 +9,7 @@ const sequelize = process.env.DB_URL
         host: 'localhost',
         dialect: 'postgres',
         dialectOptions: {
-<<<<<<< HEAD
-            decimalNumbers: true,
-=======
             decimalNumbers: true
->>>>>>> 564153c3c975c23cfd5d4c0165948b165d6fa185
         },
     });
 const User = UserFactory(sequelize);
