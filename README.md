@@ -15,8 +15,12 @@ This Kanban board app includes a secure login system using JSON Web Tokens (JWT)
 - [Questions](#questions)
 
 ## Installation
+This application is deployed on render: [Kanban Canvas On Render](https://kanban-canvas.onrender.com/)
+  
+  
+dev:  
+```npm install && npm run build && npm start```  
 
-```npm install && npm run build && npm start```
 
 ## Usage
 
